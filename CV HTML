@@ -1,0 +1,155 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maya McCormick - English Educator</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #FFF0F5;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #DB7093;
+            margin-top: 20px;
+        }
+        h1 {
+            border-bottom: 2px solid #DB7093;
+            padding-bottom: 10px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .section {
+            margin-bottom: 25px;
+        }
+        .section h3 {
+            border-bottom: 1px solid #FFB6C1;
+            padding-bottom: 5px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .contact-info {
+            background-color: #FFB6C1;
+            color: #333;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-style: italic;
+            color: #DB7093;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Maya McCormick</h1>
+            <h2>English Educator | Tutor | Camp Director</h2>
+        </div>
+    <div class="contact-info">
+        📧 mayamccormick52202@gmail.com | 📱 (314) 518-9888
+    </div>
+
+    <div class="section">
+        <h3>About Me</h3>
+        <p>Dedicated English educator with a passion for fostering literacy and engaging students through innovative teaching methods. Experienced in tutoring, camp leadership, and implementing technology in education. Committed to creating dynamic learning environments that inspire and empower students.</p>
+    </div>
+
+    <div class="section">
+        <h3>Education</h3>
+        <p><strong>Bachelor of Arts in English with an emphasis in Secondary Education</strong><br>
+        Lindenwood University<br>
+        GPA: 3.4/4.0</p>
+    </div>
+
+    <div class="section">
+        <h3>Core Competencies</h3>
+        <ul>
+            <li>Lesson Planning</li>
+            <li>Student Engagement</li>
+            <li>Technology in Education</li>
+            <li>Writing and Literacy Instruction</li>
+            <li>Tutoring</li>
+            <li>Camp Leadership</li>
+            <li>Classroom Management</li>
+            <li>Curriculum Development</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h3>Professional Experience</h3>
+        <h4>English Tutor | Tutor Doctor</h4>
+        <p><em>March 2024 - Current</em></p>
+        <ul>
+            <li>Provide personalized English instruction to students of various ages and skill levels</li>
+            <li>Develop tailored lesson plans to address individual student needs and learning styles</li>
+            <li>Utilize technology and interactive methods to enhance student engagement and comprehension</li>
+            <li>Track and report student progress to parents and the tutoring agency</li>
+        </ul>
+
+        <h4>Summer Camp Director | [Camp Name]</h4>
+        <p><em>Summer 2023</em></p>
+        <ul>
+            <li>Managed and coordinated daily activities for [number] campers aged [age range]</li>
+            <li>Designed and implemented engaging educational programs with a focus on literacy and creativity</li>
+            <li>Supervised and trained a team of [number] camp counselors</li>
+            <li>Ensured a safe and inclusive environment for all participants</li>
+            <li>Communicated effectively with parents and staff to address concerns and share camper progress</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h3>Notable Projects and Publications</h3>
+        <ol>
+            <li><strong>Published Poem: "The Stuff"</strong> - Featured in the Mid Rivers Literary Review (2022)
+                <ul>
+                    <li>Demonstrated creative writing skills through publication in a respected literary journal</li>
+                    <li>Contributed to the local literary community</li>
+                </ul>
+            </li>
+            <li><strong>Innovative Literacy Program</strong> - Developed and implemented a technology-integrated reading program for struggling readers, resulting in improved engagement and comprehension skills</li>
+            <li><strong>Creative Writing Workshop Series</strong> - Organized and led a workshop series for students, focusing on poetry and short story writing</li>
+        </ol>
+    </div>
+
+    <div class="section">
+        <h3>Certifications and Professional Development</h3>
+        <ul>
+            <li>Missouri Teaching Certification: English, Grades 9-12 (2024)</li>
+            <li>CPR and First Aid Certification (2024)</li>
+           
+        </ul>
+    </div>
+
+    <div class="section">
+        <h3>Additional Skills</h3>
+        <ul>
+            <li>Proficient in educational technology platforms: Google Classroom, Kahoot, Quizlet, etc.</li>
+            <li>Strong written and verbal communication skills</li>
+            <li>Adaptable to diverse learning environments and student needs</li>
+        </ul>
+    </div>
+
+    <div class="footer">
+        Empowering students through the power of writing
+    </div>
+</div>
+</body>
+</html>Version 8 of 8
